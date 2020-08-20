@@ -1,1 +1,2 @@
-# summer-school-2020-v2
+# customer-service category prediction
+Tool to auto category detection
